@@ -1,0 +1,2 @@
+# PAYX-UPI-Terminal
+PAYX is a portable UPI POS Terminal for local businesses. It uses Tailwind CSS and QRCode.js to generate dynamic payment codes with embedded amounts. Features include Multi-Shop support, a Rush Mode for quick static QR generation, and Excel exporting for transaction audits—all stored securely in local browser memor
